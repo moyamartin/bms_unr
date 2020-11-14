@@ -4,3 +4,6 @@
 [submodule "bms_firmware"]
 	path = bms_firmware
 	url = https://github.com/moyamartin/bms_firmware.git
+[submodule "bms_documentation"]
+	path = bms_documentation
+	url = https://github.com/moyamartin/bms_documentation
