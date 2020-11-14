@@ -1,0 +1,3 @@
+[submodule "bms_hardware"]
+	path = bms_hardware
+	url = https://github.com/moyamartin/bms_hardware.git
