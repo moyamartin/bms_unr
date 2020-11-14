@@ -7,3 +7,6 @@
 [submodule "bms_documentation"]
 	path = bms_documentation
 	url = https://github.com/moyamartin/bms_documentation
+[submodule "bms_simulations"]
+	path = bms_simulations
+	url = https://github.com/moyamartin/bms_simulations
