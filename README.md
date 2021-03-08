@@ -1,2 +1,2 @@
-![Logo FCEIA](/assets/FCEIA-logo.png)
-![Logo UNR](/assets/LOGO-UNR-NEGRO.png)
+![Logo FCEIA](/assets/FCEIA-logo.png | width=100)
+![Logo UNR](/assets/LOGO-UNR-NEGRO.png | width=100)
