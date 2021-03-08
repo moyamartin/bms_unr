@@ -1,2 +1,4 @@
-![Logo FCEIA](/assets/FCEIA-logo.png | width=100)
-![Logo UNR](/assets/LOGO-UNR-NEGRO.png | width=100)
+<div align='center'>
+<img src='assets/FCEIA-logo.png' width='100'>
+<img src='assets/LOGO-UNR-NEGRO.png' width='100'>
+</div>
