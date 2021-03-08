@@ -1,5 +1,2 @@
-<p align="center">
-  <img src="/assets/FCEIA-logo.png" width="150" />
-&nbsp; &nbsp; &nbsp;
-  <img src="/assets/LOGO-UNR-NEGRO.png" width="150" /> 
-</p>
+![Logo FCEIA](/assets/FCEIA-logo.png)
+![Logo UNR](/assets/LOGO-UNR-NEGRO.png)
