@@ -3,7 +3,7 @@
 <img src='assets/LOGO-UNR-NEGRO.png' width='100' align='right'>
 </div>
 
-# Battery Management System for small and medium Electrical Vehicles
+# Battery Management System for Electrical Vehicles
 
 This repo contains the final project of @lusho2206, @fededc88 and @moymartin
 needed to finish the Bachelor degree in Electrical Engineering from the [Faculty
