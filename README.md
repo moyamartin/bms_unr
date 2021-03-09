@@ -5,7 +5,7 @@
 
 # Battery Management System for Electrical Vehicles
 
-This repo contains the final project of [@lusho2206](https://github.com/lusho2206/), [@fededc88](https://github.com/fededc88/) and [@moymartin](https://github.com/moyamartin)
+This repo contains the final project of [@lusho2206](https://github.com/lusho2206/), [@fededc88](https://github.com/fededc88/) and [@moyamartin](https://github.com/moyamartin)
 needed to finish the Bachelor degree in Electrical Engineering from the [Faculty
 of Exact Sciences and Land Surveying](https://www.fceia.unr.edu.ar/) which
 belongs to the [National University of Rosario](https://unr.edu.ar/)
@@ -42,4 +42,20 @@ This can be summarized in the following block diagram:
 
 ![BMS schematic](/assets/bms_sch.png)
 
+## Folder structure
 
+This repo is separated in four different submodules, so in order to clone this
+repo and get all the modules run:
+
+```
+git clone https://github.com/moyamartin/bms_unr.git --recurse-submodules
+-j<n_cores>
+```
+
+Each folder contains a different module of the project:
+
+* **bms_hardware**: Contains hardware development and production files
+* **bms_firmare**: Contains firmware source files and binaries for production
+* **bms_documentation**: Contains all the related documentation to thi proyect
+* **bms_simulation**: Contains the battery mathematical model as well as all the
+  algorithms simulated to accomplish the different goals of the proyect
