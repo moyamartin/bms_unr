@@ -48,8 +48,7 @@ This repo is separated in four different submodules, so in order to clone this
 repo and get all the modules run:
 
 ```
-git clone https://github.com/moyamartin/bms_unr.git --recurse-submodules
--j<n_cores>
+git clone https://github.com/moyamartin/bms_unr.git --recurse-submodules -j<n_cores>
 ```
 
 Each folder contains a different module of the project:
