@@ -10,3 +10,6 @@
 [submodule "bms_simulations"]
 	path = bms_simulations
 	url = https://github.com/moyamartin/bms_simulations
+[submodule "bms_software"]
+	path = bms_software
+	url = https://github.com/moyamartin/bms_software
